@@ -56,7 +56,8 @@ function Banner() {
                         Welcome to my Portfolio
                     </span>
                     <h1>{`Hi I'm Nikhil `}<span className="wrap">{text}</span>{` enthusiast`}</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dicta voluptate ducimus aspernatur quaerat corrupti porro quidem eaque, atque pariatur provident aperiam eius officiis in molestiae quibusdam? Eos, repudiandae a.</p>
+                    <p> highly motivated and skilled software engineering student with a strong foundation in Python, Java, and web development. Passionate about building innovative solutions and leveraging cutting-edge technologies to achieve business
+goals. Keen to work in real world projects</p>
                     <button onClick={handleConnectClick}>Let's Connect <ArrowRightCircle size={25} /> </button>
                 </Col>
                 <Col xs={12} md={6} xl={5}>
