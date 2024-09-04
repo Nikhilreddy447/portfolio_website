@@ -33,7 +33,7 @@ function NavBar() {
       }
   };
   const handleResumeClick = () => {
-    window.location.href = 'https://drive.google.com/file/d/1x-pu55xVCj3tx43fJnn5XLjvOsvpz2qD/view?usp=sharing';
+    window.location.href = 'https://drive.google.com/file/d/1Ph9MVb79QpJT4a5f76HWCpGNbBjj2w9I/view?usp=drive_link';
   };
 
   const linkedIn = "https://www.linkedin.com/in/nikhil-reddy-81a403229/"
