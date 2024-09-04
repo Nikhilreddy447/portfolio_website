@@ -77,9 +77,7 @@ function Skills() {
                     <h2>
                         Skills
                     </h2>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem id deserunt nemo in facere, rem eligendi sed unde voluptates eaque fuga modi assumenda accusantium, nobis dicta repudiandae facilis rerum est!
-                    </p>
+                    <p>This are the set of skills I had confidance in.</p>
                     <Carousel responsive={responsive} infinite={true} className="skill-slider">
                     {skills.map((skill, index) => (
                   <div key={index} className="item" onClick={() => handleSkillClick(skill)}>
